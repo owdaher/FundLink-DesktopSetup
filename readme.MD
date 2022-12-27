@@ -1,4 +1,4 @@
-# H1 About FundLink Version 1.0.0
+# About FundLink Version 1.0.0
 
 ![icon of the program](media/image3.png)
 
@@ -7,7 +7,7 @@ General
 
 FundLink V1.0.0
 
-Business: ODaher
+Publisher: ODaher
 
 **For Business Owners**: An app that keeps track of your cash, checks,
 bank accounts receipts and payments.
@@ -17,9 +17,12 @@ and balances.
 
 **For Accountants**: it is a Cash Accounting and Bookkeeping app.
 
+Setup:
+------
+Just download the FundLink-setup.exe and run it on your windows 10 desktop computer.
+
 Description:
 ------------
-
 FundLink keeps track of cash transactions, i.e. cash received and cash
 spent out of a cash fund / cash box, with minimal input from you and
 lots of reports to choose from. Cash funds or boxes can be: petty cash,
@@ -36,7 +39,6 @@ statements, and Accounts Balances.
 
 Who is it for:
 --------------
-
 The app is made so easy to use that it can be used by anyone: for
 example, to keep track of where your allowance goes, keep track of your
 bank accounts. the app can also be used by any treasurer or cashier that
@@ -45,7 +47,6 @@ track of cash spent and cash received into that account or cash box.
 
 Examples cases
 --------------
-
 You have a home business. The app will help you keep track of your
 business expenses and income and have the ability to export reports that
 you can send to your accountant to prepare your taxes.
@@ -62,30 +63,17 @@ amount paid as well as the balance of the gift fund.
 
 Features:
 ---------
-
 -  Create Multiple Cash Accounts
-
 -  Create Multiple Expense Accounts
-
 -  Create Multiple Income Accounts
-
 -  Record Transfers between cash accounts
-
 -  Attach image of invoices to transactions.
-
 -  Capture invoice images and later record the transaction.
-
 -  Keep track to who paid you and to whom you pay
-
 -  Cash in and cash out statement for each cash fund
-
 -  Cash in and cash out for all cash accounts
-
 -  Review Balances and statements of cash funds, expenses, and income.
-
 -  Export your data to excel and word files.
-
 -  Export all your invoice or document copies to image files
-
 -  Create Reports that you can send to your accountant or your
    supervisor.
