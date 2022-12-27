@@ -1,6 +1,6 @@
 # H1 About FundLink Version 1.0.0
 
-![icon of the program](FundLink/media/image3.png)
+![icon of the program](media/image3.png)
 
 General
 -------
