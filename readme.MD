@@ -1,4 +1,6 @@
-About FundLink Version 1.0.0
+# H1 About FundLink Version 1.0.0
+
+![icon of the program](media\image3.png)
 
 General
 -------
@@ -28,7 +30,7 @@ In technical terms FundLink is a bookkeeping program based on the cash
 basis of accounting, that has the ability to export its data as single
 journal entries or double journal entries.
 
-Cashier app keeps track of: Cash Transactions, Cash Balances, Invoices,
+FundLink app keeps track of: Cash Transactions, Cash Balances, Invoices,
 Receipts, Documents, Expenses, Income, Inter-Cash Transfers, Income
 statements, and Accounts Balances.
 
