@@ -20,6 +20,8 @@ and balances.
 Setup:
 ------
 Just download the FundLink-setup.exe and run it on your windows 10 desktop computer.
+For working on the app we have provided a user guide inside the app itself 
+in the help section.
 
 Description:
 ------------
