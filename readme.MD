@@ -21,13 +21,13 @@ and balances.
 Description:
 ------------
 
-My Cashier keeps track of cash transactions, i.e. cash received and cash
+FundLink keeps track of cash transactions, i.e. cash received and cash
 spent out of a cash fund / cash box, with minimal input from you and
 lots of reports to choose from. Cash funds or boxes can be: petty cash,
 cash in certain currency, check boxes, bank accounts, gift fund, project
 cash, vacation fund, etc.
 
-In technical terms My Cashier is a bookkeeping program based on the cash
+In technical terms FundLink is a bookkeeping program based on the cash
 basis of accounting, that has the ability to export its data as single
 journal entries or double journal entries.
 
