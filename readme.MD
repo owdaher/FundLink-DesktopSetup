@@ -23,6 +23,11 @@ Just download the FundLink-setup.exe and run it on your windows 10 desktop compu
 For working on the app we have provided a user guide inside the app itself 
 in the help section.
 
+We recommend that you install the application in your *documents folder*. do not use 
+the Program Files or the Program Files (x86) folders, because if you choose these folders
+then you need to open the application with administrative access, otherwise, the app will 
+not record any changes you make to the databasefile. (for widows security reasons)
+
 Description:
 ------------
 FundLink keeps track of cash transactions, i.e. cash received and cash
