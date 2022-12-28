@@ -23,6 +23,8 @@ Just download the FundLink-setup.exe and run it on your windows 10 desktop compu
 For working on the app we have provided a user guide inside the app itself 
 in the help section.
 
+path to setup file: https://github.com/owdaher/FundLink/releases/download/v1.0.0/FundLink-setup.exe 
+
 We recommend that you install the application in your *documents folder*. do not use 
 the Program Files or the Program Files (x86) folders, because if you choose these folders
 then you need to open the application with administrative access, otherwise, the app will 
